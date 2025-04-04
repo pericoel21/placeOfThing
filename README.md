@@ -5,7 +5,8 @@
  https://www.youtube.com/channel/UCIWD1MzoJTPt41tYce18I1w
  Link to TheBurgerkrieg's video about the system:
  https://youtu.be/yC6JJn7WWFY?si=215rufcKzNjGHxVP
- 
+
+This system is an adaptation of Son Of Oak's *City of Mist.*
 ## About
 This repository is a series of notes created in markdown format and intended to be used with Obsidian. The rules can be easily navigated within GitHub, but some of the Obsidian features truly make this repository a great resource for GMing the game.
 
