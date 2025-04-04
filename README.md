@@ -19,3 +19,12 @@ Some other features I added:
 ## Roadmap
 I want to create a `.canvas` file to have a GM screen with all the relevant info in one place.
 I still didn't get to create all the Threats, and some notes are not complete or simply pasted from the book.
+
+Other ideas of To-Do stuff:
+- How to prep? -> Hazard creation and placement.
+- Basic game loop for players
+- Basic game loop for GMs
+- Compile all the GM advice through the pdf and compile it in one section.
+- Player Character sheets
+- Character Cheat sheets (all the moves explained and the Dot Table).
+- Upload the jsons (already created but not fully clean, I used JSONS to compile all the theme sheets,kits, backgrounds...)
