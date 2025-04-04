@@ -8,7 +8,8 @@ aliases:
   - Aggression Theme
   - Aggression Theme Sheet
 pack: core
-flavour: 
+flavour:
+  - physical
 abstract: Theme Sheet for Aggression.
 ---
 > This Theme is all about doing damage. It’s pretty straightforward in its pursuit of destruction, and it can do little else. The mode of aggression does not have to be physical, but can include an ability to harm others socially or emotionally as well. 
