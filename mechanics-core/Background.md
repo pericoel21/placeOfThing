@@ -7,58 +7,50 @@ aliases:
   - Backgrounds
 abstract: PC background 101
 ---
+> [!important] Background in a nutshell
+> Composed of 4 tags:
+> - The **Background Tag:** Use it **once per session.**
+> - Three Tags for your **Background Loadout.** Function as the regular [[Loadout]].
 
-What your Background represents depends on your particular game. It might be your species, your culture, or some other inalienable distinction of the way you grew up. It may even be a combination of things, and that combination may be different for various characters in the same game. It is composed of 4 Tags, one of which is a permanent Story Tag, known as your Background Tag, that is not burned when invoked.
-This Story tag is a summation of your character’s Background, like Brave Goblin, Deceitful
-Marshlander, or Gregarious Scholar. Because this tag is often quite broad, you may only
-invoke it once per session.
+> [!tip] Backgrounds depend on settings
+> What your Background represents depends on your particular game. It might be your species, your culture, or some other distinction of the way you grew up.
 
-The other three are Story Tags that act similarly to the tags in your Loadout, except they are drawn from a different pool of possible tags. Much like you can put anything that is
-reasonably available during Downtime into your Loadout, you can have anything that is
-reasonably encompassed by your Background in your Background Loadout. Just like tags in your regular Loadout, when you invoke one, it is burned. When you gain one, you can come up with a new one (or choose to regain the one you burned earlier). It is recommended that you
-keep a list of potential tags handy somewhere, just to help you come up with them on the
-spot. The size of that pool is not actually important to game balance, as the power of this
-mechanic is regulated differently.
-It is nonetheless important to know what your species or upbringing entails, so you
-can know when it is reasonable to invoke it.
-In certain cases, having a pool for sample tags actually does matter. For example, in
-one setting, dwarves have darkvision. This is written down in a catalogue of racial features
-the GM has prepared for this game. It is important that everyone is on the same page about that. Dwarf characters have the Background Tag Dwarf, and one of the power tags in their
-pool is Darkvision.
-A player could use both Dwarf and Darkvision in the same roll, getting +2 to that roll
-but both utilising the one time they can invoke their Background Tag and burning one of the
-Story Tags from their Background Loadout. Narratively they still have darkvision after that, but
-it won’t be able to impact the story as much again (unless they regain it back into the
-Background Loadout).
-That player might also decide that their particular dwarf does not have very good
-darkvision in spite of being a dwarf, in which case it would no longer be reasonable to put it
-in the Background Loadout.
-You may fill one of your Background Loadout slots every time your Background Tag is
-used against you, in which case it acts like a Weakness Tag would. This means that choosing
-a background that will often disadvantage you will give you a lot more Story Tags as well,
-while choosing one that will rarely bite you in the arse also gives you fewer advantages.
-If your entire party has the same Background Tag and you would like to use this space
-to distinguish them otherwise, or if you have made the mistake of casting humans as the
-“default” race instead of giving them a distinct identity and place in the world, remember that
-your Background Tag could also be Farmer, or Noble, or Mercenary. The Background
-Loadout Story Tags could then be enduring character traits like Clever, Stubborn, or
-Perceptive, or skills you learned like Predict Weather, Court Etiquette, or Provisions.
-This is of course also true if your Background Tag is your species, and you’d prefer to
-keep that in the background (haha) in favour of your actual Background. And even if your
-Background Tag is more representative of your upbringing, there is no reason why a boring
-human shouldn’t, through some fluke or mutation, have the power of Darkvision.
-You can also expound on elements of your Background by representing them in
-themes. If being a dwarf is important to you, various themes can represent that and/or
-aspects of it.
-​
-Something that is more easily recovered is your Loadout, which holds 4 Story Tags.
-How that works is covered in the Downtime Move. Your Loadout represents things you have
-prepared for the specific task you are undertaking right now. They allow for a degree of
-flexibility, so you can lean further into your strengths or make up for some of your
-shortcomings. Things like Reflex Booster, Healing Potion, Guard Captain’s Secret, Goons
-on Call, Heat Ammo, and Meditative Focus can come in handy depending on the situation.
-All of your 4 Loadout tags are burned when you invoke them.
-​
-Filling your Loadout is a great way to do on shopping trips, but of course they do not
-need to represent equipment. The Loadout is also a great place to “test out” new Power Tags
-that you eventually want to add to your Themes on a permanent basis.
+> [!info] Background VS Themes
+> Although a Background seems to cover the profession, species or past of a character, elements of the Background can be expanded by representing them in themes. If being a dwarf is important to you, various themes can represent that and/or aspects of it.
+## The Background Tag
+The Background Tag works as a title of one PC's Background and is personalized to them.
+- Functions as a [[Story Tags|Story Tag]].
+- It is not burned when used.
+- Can only be invoked once per session.
+- It can otherwise be invoked against the character.
+	- This does not count against the limit of one time per session that the Background Tag has.
+	- It works like a Weakness Tag.
+	- Accepting this negative use refills one Tag in the Background Loadout.
+
+> [!example] Personalizing the Background Tag
+> The Background Tag is a summation of a character’s Background, like Brave Goblin, Deceitful Marshlander, or Gregarious Scholar.
+
+> [!tip] Background Tag as a Weakness Tag
+>  A Background Tag which can be easily invoked as a Weakness will often disadvantage the PC, but it will also refill the Background Loadout much more easily. 
+## The Background Loadout
+The Background Loadout is composed by three Story Tags. They act similarly to the tags in your [[Loadout]].
+### Using Background Loadout Tags
+- Background Loadout Tags are considered Story Tags.
+- Once invoked, these Tags are burnt.
+### Recovering Background Tags
+- Recovered during [[Downtime]].
+- One is recovered if the player accepts the use of the Background Tag as a Weakness Tag.
+- Any reasonable Tag can be added to the Background Loadout.
+- A pool of possible Tags is presented in each Background.
+
+> [!tip] Consensus about the Background in the setting
+> It is important to know what your species or upbringing entails, so you can know what Tags can be created, and when it is reasonable to invoke them.
+
+> [!tip] Background Loadout vs regular Loadout
+> The Loadout represents things a character have prepared for the specific task they are undertaking right now. This Tags are very flexible, and easier to recover.
+
+> [!example] Examples:
+> A player could use both Dwarf and Darkvision in the same roll, getting +2 to that roll. This is one time they can invoke their Background Tag for that session. It also burns one of the Story Tags from their Background Loadout.
+> Narratively they still have darkvision after that, but it won’t be able to impact the story as much again (unless they regain it back into the Background Loadout).
+> 
+> That player might also decide that their particular dwarf does not have very good darkvision in spite of being a dwarf, in which case it would no longer be reasonable to put it in the Background Loadout.
